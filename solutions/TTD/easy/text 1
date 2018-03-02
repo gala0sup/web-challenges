@@ -1,4 +1,14 @@
-## TEXT 1  For the beginning we are given easy crypto stuff : - **CRYPTO** 	   131017171A48221A1D170F   and we are given an input field now by using that field  we can find thata = 0c b= 0d and so on ...so the whole character set  [0-9 a-z A-Z - _ . , ; : ? ! [space]] comes out be : - 
+## TEXT 1 
+ For the beginning we are given easy crypto stuff : - 
+ **CRYPTO** 
+ 	   `131017171A48221A1D170F` 
+ 	     and we are given an input field now by using that field  we can find that
+ 	     *a = 0c 
+ 	     b= 0d* 
+ 	     and so on ...
+ 	     so the whole character set  [0-9 a-z A-Z - _ . , ; : ? ! [space]] 
+ 	     comes out be : - 
+ 	      
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTI5NzQ0OF19
+eyJoaXN0b3J5IjpbLTE5NzM1MDkzNTBdfQ==
 -->

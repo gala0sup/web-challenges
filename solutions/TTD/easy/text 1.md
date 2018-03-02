@@ -2,12 +2,14 @@
  For the beginning we are given easy crypto stuff : - 
  **CRYPTO** 
  	   `131017171A48221A1D170F` 
- 	     and we are given an input field now by using that field  we can find that
- 	     *a = 0c 
- 	     b= 0d* 
- 	     and so on ...
- 	     so we find the      the whole character set  [*0-9 a-z A-Z - _ . , ; : ? ! [space]*] 
-and we that to decode the *crypto*
+and we are given an input field now by using that field  we can find that
+*a = 0c 
+b= 0d* 
+and so on ...
+so we can find the whole character set  [*0-9 a-z A-Z - _ . , ; : ? ! [space]*] 
+
+and with that we can decode the *crypto*
+
 ```python
 def split(str, num):
     return [ str[start:start+num] for start in range(0, len(str), num) ]

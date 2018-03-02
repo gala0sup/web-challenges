@@ -1,6 +1,10 @@
 ## TEXT 1 
  For the beginning we are given easy crypto stuff : - 
+ 
+ 
  **CRYPTO** 
+ 
+ 
  	   `131017171A48221A1D170F` 
      
      

@@ -9,8 +9,12 @@
      
      
 and we are given an input field now by using that field  we can find that
+
+
 *a = 0c 
+
 b= 0d* 
+
 and so on ...
 
 

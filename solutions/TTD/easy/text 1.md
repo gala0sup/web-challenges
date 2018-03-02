@@ -4,7 +4,7 @@
  
  **CRYPTO** 
  ```
- **131017171A48221A1D170F**
+ 131017171A48221A1D170F
  ```  
      
 and we are given an input field now by using that field  we can find that

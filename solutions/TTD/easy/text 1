@@ -6,9 +6,15 @@
  	     *a = 0c 
  	     b= 0d* 
  	     and so on ...
- 	     so the whole character set  [0-9 a-z A-Z - _ . , ; : ? ! [space]] 
- 	     comes out be : - 
+ 	     so we find the      the whole character set  [0-9 a-z A-Z - _ . , ; : ? ! [space]] 
+and we that to decode the *crypto*
+ 	      
+ 	     
+
+
+
+
  	      
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzM1MDkzNTBdfQ==
+eyJoaXN0b3J5IjpbMTI5MjUwNTY0Nl19
 -->
